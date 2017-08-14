@@ -1,6 +1,6 @@
 {
   "name": "pkg-dir-name",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Find name from closest package.json or its directory name.",
   "scripts": {
     "lint": "eslint --ext js,md .",
